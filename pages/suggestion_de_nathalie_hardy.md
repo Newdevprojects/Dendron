@@ -14,9 +14,7 @@ Il me paraitrait opportun et urgent que vous lanciez un **appel général aux ca
 
 * [[LegalRef_Service_lutte_incendie]]
 ## [[LegalRef_Formation_incendie]]
-##
-> &nbsp;
-> [[20081107_Note_SIPPT_EPI_Secouristes_Boite-secours.pdf]]
+## [[20081107_Note_SIPPT_EPI_Secouristes_Boite-secours.pdf]]
 
 
 Notre direction générale compte de nombreux jeunes agents qui pourraient prendre la relève des membres EPI actuels.
