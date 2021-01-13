@@ -5,4 +5,4 @@ Permalink :
 
 Test
 
-[lien vers le 13 janvier](/journal/2021_01_13.md)
+[lien vers le 13 janvier](/journals/2021_01_13.md)
